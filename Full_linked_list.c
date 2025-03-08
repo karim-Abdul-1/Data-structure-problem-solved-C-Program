@@ -150,5 +150,5 @@ node* insert_back(node *head, int key)
 int main()
 {
 
-	return 0;
+	returnÂ 0;
 }
