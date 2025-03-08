@@ -72,5 +72,5 @@ void travers(node* temp)
   printf("%d ", p->data);
   p = p->next;
 
-  } while (p != temp->next);
+  } while (p !=Â temp->next);
 }
